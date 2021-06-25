@@ -1,3 +1,6 @@
+/*Bonus inherits Salary 
+Bonus--->Salary
+*/
 class Salary {
   int base() {
     return 1000;
